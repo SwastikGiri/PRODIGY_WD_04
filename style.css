@@ -164,7 +164,7 @@ section{
 }
 .home-links{
     position: absolute;
-    bottom: 10rem;
+    bottom: 5rem;
     width: 170px;
     display: flex;
     justify-content: space-between;
