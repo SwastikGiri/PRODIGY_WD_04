@@ -584,6 +584,9 @@ span{
     .header .navbar a{
         font-size: 2.4vmax;
     }
+    .home-content .text-animate{
+        width: 33rem;
+    }
     .about{
         min-height: auto;
     }
@@ -606,6 +609,9 @@ span{
     }
     .home-content h1{
         font-size: 5vmax;
+    }
+    .home-content .text-animate{
+        width: 30rem;
     }
     .home-content .text-animate h3{
         font-size: 4vmax;
@@ -652,5 +658,14 @@ span{
 @media screen and (max-width:468px){
     .contact form .input-box .input-field{
         width: 100%;
+    }
+    .home-content h1{
+        font-size: 4.5vmax;
+    }
+    .home-content .text-animate{
+        width: 29rem;
+    }
+    .home-content .text-animate h3{
+        font-size: 3.6vmax
     }
 }
