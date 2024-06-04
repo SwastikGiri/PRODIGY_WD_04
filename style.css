@@ -123,11 +123,7 @@ section{
     position: relative;
     display: flex;
     justify-content: space-between;
-<<<<<<< HEAD
     width: 28rem;
-=======
-    width: 32rem;
->>>>>>> 81750ee5b0847dbd5abd84da795a19f34df1d8b5
     height: 5rem;
 }
 
